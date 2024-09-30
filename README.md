@@ -7,6 +7,8 @@ be some time to do this as your TA helps everyone get into teams.**
 
 ## Task 0: Fork and clone this repo
 
+hello
+
 1. As with the previous lab activities, start by making a fork of this repo and cloning it.
 
 ## Task 1: Your API Token (token)
